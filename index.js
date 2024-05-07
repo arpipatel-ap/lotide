@@ -11,3 +11,4 @@ module.exports = {
   assertEqual,
   assertArraysEqual
 };
+console.log(head([1, 2, 3])); 
